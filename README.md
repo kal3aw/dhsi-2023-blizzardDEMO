@@ -1,7 +1,5 @@
 # DHSI 2023 Blizzard Demo (Practice Repository)
 
-# CollectionBuilder-GH
-
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
